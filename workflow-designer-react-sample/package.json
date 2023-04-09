@@ -1,0 +1,44 @@
+{
+  "name": "workflow-designer-react-sample",
+  "version": "8.1.0",
+  "description": "Designer for Workflow Engine React Sample",
+  "keywords": [
+    "designer",
+    "workflow",
+    "optimajet",
+    "react"
+  ],
+  "author": "OptimaJet",
+  "license": "SEE LICENSE IN https://workflowengine.io/pricing/",
+  "bugs": {
+    "email": "support@optimajet.com"
+  },
+  "private": true,
+  "dependencies": {
+    "@optimajet/workflow-designer-react": "^8.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
